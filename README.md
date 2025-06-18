@@ -1,2 +1,3 @@
 # -B-
-这是一个爬取B站评论的爬虫小项目
+这是一个爬取B站评论的爬虫小项目，用来展示一下简单爬虫的应用，里面每一步我都做了注释，就是怕我自己哪天给忘了，毕竟爬虫不是我主要的学习方向，只能说是一点兴趣，将此项目分享出来也可以给感兴趣但初学爬虫的道友练练手，若是有前辈发现该项目有可以改进的地方请指出。
+This is a small crawler project designed to scrape Bilibili video comments, showcasing a simple application of web crawling. I've added detailed comments to each step to ensure I don't forget how it works in the future—after all, web crawling isn't my primary field of study; it's just a personal interest. I'm sharing this project to help beginners who are curious about web scraping get some hands-on practice. If any experienced developers notice areas for improvement, please feel free to point them out!
